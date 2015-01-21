@@ -1,4 +1,5 @@
-# loglevel [![Build Status](https://travis-ci.org/pimterry/loglevel.png)](https://travis-ci.org/pimterry/loglevel) [![Coverage Status](https://coveralls.io/repos/pimterry/loglevel/badge.png?branch=master)](https://coveralls.io/r/pimterry/loglevel?branch=master) [![Dependency status](https://david-dm.org/pimterry/loglevel/dev-status.png)](https://david-dm.org/pimterry/loglevel#info=devDependencies&view=table)
+# loglevel [![NPM Version][npm-image]][npm-url]
+[![Build Status](https://travis-ci.org/pimterry/loglevel.png)](https://travis-ci.org/pimterry/loglevel) [![Coverage Status](https://coveralls.io/repos/pimterry/loglevel/badge.png?branch=master)](https://coveralls.io/r/pimterry/loglevel?branch=master) [![Dependency status](https://david-dm.org/pimterry/loglevel/dev-status.png)](https://david-dm.org/pimterry/loglevel#info=devDependencies&view=table)
 
 Minimal lightweight simple logging for JavaScript. loglevel replaces console.log() and friends with level-based logging and filtering, with none of console's downsides.
 
@@ -184,3 +185,5 @@ Copyright (c) 2013 Tim Perry
 Licensed under the MIT license.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/3393271900ddc6808ae1901f3760a59e)](http://githalytics.com/pimterry/loglevel)
+[npm-image]: https://img.shields.io/npm/v/dexie.svg?style=flat
+[npm-url]: https://npmjs.org/package/dexie
